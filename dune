@@ -1,0 +1,3 @@
+(executable
+ (name sat_solver)
+ (libraries str))
